@@ -14,14 +14,13 @@
 
 ## 📋 Mục Lục
 
-- [Yêu cầu môi trường](#yêu-cầu-môi-trường)
-- [Hướng dẫn cài đặt & chạy dự án](#hướng-dẫn-chạy-dự-án)
-  - [1. Clone dự án](#1-clone-dự-án)
-  - [2. Tạo database và data](#2-tạo-database-và-data)
-  - [3. Cấu hình SQL Server](#3-thay-đổi-cấu-hình-sql-server)
-  - [4. Khởi động Server](#4-khởi-động-server-httplocalhost8080)
-  - [5. Khởi động Client](#5-khởi-động-client-httplocalhost5173)
-- [Liên hệ](#liên-hệ)
+- [Yêu cầu môi trường](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#%EF%B8%8F-y%C3%AAu-c%E1%BA%A7u-m%C3%B4i-tr%C6%B0%E1%BB%9Dng)
+- [Hướng dẫn cài đặt & chạy dự án](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-ch%E1%BA%A1y-d%E1%BB%B1-%C3%A1n)
+  - [1. Clone dự án](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#1--clone-d%E1%BB%B1-%C3%A1n)
+  - [2. Tạo database và data](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#2-%EF%B8%8F-t%E1%BA%A1o-database-v%C3%A0-data)
+  - [3. Cấu hình SQL Server](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#3-%EF%B8%8F-thay-%C4%91%E1%BB%95i-c%E1%BA%A5u-h%C3%ACnh-sql-server)
+  - [4. Khởi động Server](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#4-%EF%B8%8F-kh%E1%BB%9Fi-%C4%91%E1%BB%99ng-server-httplocalhost8080)
+  - [5. Khởi động Client](https://github.com/namsaber/Data-Backup-Management-System?tab=readme-ov-file#5-%EF%B8%8F-kh%E1%BB%9Fi-%C4%91%E1%BB%99ng-client-httplocalhost5173)
 
 ---
 
