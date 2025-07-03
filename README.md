@@ -56,7 +56,8 @@ git clone https://github.com/namsaber/Data-Backup-Management-System.git
 spring.application.name=data-backup
 
 # Microsoft SQL Server Configuration
-spring.datasource.url=jdbc:sqlserver://<SERVERNAME>:<PORT>;databaseName=DataBackupManagementDB;instance=<INSTANCE>;encrypt=true;trustServerCertificate=true
+# Bỏ instant nếu không chạy MS SQL Server trên instant nào
+spring.datasource.url=jdbc:sqlserver://<SERVERNAME>:<PORT>;databaseName=DataBackupManagementDB;[<instance=<INSTANCE>>];encrypt=true;trustServerCertificate=true
 spring.datasource.username=<USERNAME>
 spring.datasource.password=<PASSWORD>
 spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
